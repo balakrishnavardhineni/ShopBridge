@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,kBAAkB,CAAC;EACjB,MAAM,EAAE,KAAK;EACb,SAAS,EAAE,KAAK;EAChB,MAAM,EAAE,MAAM;EACd,eAAe,EAAE,eAAe;CACjC;;AACD,AAAA,iBAAiB,CAAC;EAChB,QAAQ,EAAE,MAAM;EAChB,aAAa,EAAE,QAAQ;EACvB,WAAW,EAAE,MAAM;EACnB,SAAS,EAAE,KAAK;CACjB;;AACD,AAAA,oBAAoB,CAAC;EACnB,UAAU,EAAE,IAAI;EAChB,QAAQ,EAAE,MAAM;CACjB",
+    "sources": [
+        "basicCard.scss"
+    ],
+    "names": [],
+    "file": "basicCard.css"
+}

@@ -1,0 +1,40 @@
+.products-list-container {
+  height: 100%;
+  background: #f2f2f2;
+  overflow: hidden;
+  overflow-y: scroll;
+  &::-webkit-scrollbar {
+    display: none !important;
+  }
+  .products-list {
+    height: 100%;
+    width: 95%;
+    margin: 15px auto;
+  }
+
+  .fetch-button {
+    display: flex;
+    justify-content: flex-end;
+  }
+  .MuiButton-containedPrimary {
+    margin: 15px;
+  }
+  .card-product {
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+  }
+  .MuiTypography-h6 {
+    font-size: 1.4rem !important;
+    font-weight: 600 !important;
+  }
+}
+.makeStyles-menuButton-2 {
+  margin-right: 0 !important;
+}
+.MuiAppBar-colorPrimary {
+  background-color: #03a9f4 !important;
+}
+.MuiToolbar-regular {
+  min-height: 55px !important;
+}

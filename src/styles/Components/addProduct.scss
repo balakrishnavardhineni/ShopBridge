@@ -1,0 +1,40 @@
+input {
+  width: 90%;
+  padding: 15px;
+  margin: 5px 0 22px;
+  display: block;
+  border: none;
+  background: #f1f1f1;
+}
+.add-product {
+  height: 100%;
+  overflow: hidden;
+}
+input:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+hr {
+  border: 1px solid #f1f1f1;
+  margin-bottom: 25px;
+}
+
+button:hover {
+  opacity: 1;
+}
+
+.signupbtn {
+  float: left;
+  width: 50%;
+}
+
+.container {
+  padding: 16px;
+}
+
+@media screen and (max-width: 300px) {
+  .signupbtn {
+    width: 100%;
+  }
+}

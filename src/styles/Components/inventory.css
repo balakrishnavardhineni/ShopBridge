@@ -1,0 +1,57 @@
+.products-list-container {
+  height: 100%;
+  background: #f2f2f2;
+  overflow: hidden;
+  overflow-y: scroll;
+}
+
+.products-list-container::-webkit-scrollbar {
+  display: none !important;
+}
+
+.products-list-container .products-list {
+  height: 100%;
+  width: 95%;
+  margin: 15px auto;
+}
+
+.products-list-container .fetch-button {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+}
+
+.products-list-container .MuiButton-containedPrimary {
+  margin: 15px;
+}
+
+.products-list-container .card-product {
+  margin-bottom: 10px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.products-list-container .MuiTypography-h6 {
+  font-size: 1.4rem !important;
+  font-weight: 600 !important;
+}
+
+.makeStyles-menuButton-2 {
+  margin-right: 0 !important;
+}
+
+.MuiAppBar-colorPrimary {
+  background-color: #03a9f4 !important;
+}
+
+.MuiToolbar-regular {
+  min-height: 55px !important;
+}
+/*# sourceMappingURL=Inventory.css.map */

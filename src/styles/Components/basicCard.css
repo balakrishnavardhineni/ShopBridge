@@ -1,0 +1,19 @@
+.MuiCardMedia-root {
+  height: 200px;
+  min-width: 150px;
+  margin: 0 10px;
+  background-size: auto !important;
+}
+
+.MuiTypography-h5 {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  max-width: 250px;
+}
+
+.MuiTypography-body2 {
+  max-height: 80px;
+  overflow: hidden;
+}
+/*# sourceMappingURL=basicCard.css.map */
